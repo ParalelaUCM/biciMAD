@@ -22,9 +22,12 @@ En base a los dataset se organizan los datos en diferentes *rdd* para su posteri
 ### 4. Análisis de los meses disponibles de 2019 
 En esta sección se encuentran diversas gráficas y contrastes sobre el uso nocturno del servicio.
 
-### 5. Asesor de ruta BiciMad
+### 5. Análisis de los trabajadores
+Aquí veremos un breve análisis de los movimientos realizados por los empleados del servicio.
+
+### 6. Asesor de ruta BiciMad
 Esta sección ofrece una breve interacción con el usuario. Consiste en una breve herramienta que permite introducir una estación de origen y una estación de llegada, así como la hora deseada para realizar el trayecto. Con esos datos se estimará un numero de bicis disponibles en la estación de origen y un número aproximado de puestos libres en la estación destino. 
 > **Nota:** esta herramienta está construida pensando en los horarios nocturnos, es por ello que no hay ningun problema realizando viajes alrededor de las 00:00, tendrá en cuenta el cambio de dia para la predicción.
 
-### 6. Ciclos
-Como cierre analizaremos los ciclos realizados por los trabajadores.
+### 7. Ciclos
+Como cierre, en busca de un analisis más complejo de los datos, analizaremos los ciclos realizados por los trabajadores y usuarios.
