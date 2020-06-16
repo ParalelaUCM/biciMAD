@@ -11,7 +11,7 @@ Se descargarán todos los módulos necesarios de python que se necesitarán en l
 > **Necesario ejecutar**.
 
 ### 2. Descargamos los datasets de biciMAD
-Se descargarán de forma automática todos los [datasets necesarios](https://opendata.emtmadrid.es/Datos-estaticos/Datos-generales-(1)) *(Enero2019-Junio2019)*  tanto los *datos de uso* como las *situaciones de estaciones*. Estos a su vez se organizarán en directorios para su fácil acceso. Los *datasets de uso* se almacenaran en la ruta `datasets/usages/` y de forma similar los *datasets de situación* en la ruta `datasets/usages/`. 
+Se descargarán de forma automática todos los [datasets necesarios](https://opendata.emtmadrid.es/Datos-estaticos/Datos-generales-(1)) *(Enero2019-Junio2019)*  tanto los *datos de uso* como las *situaciones de estaciones*. Estos a su vez se organizarán en directorios para su fácil acceso. Los *datasets de uso* se almacenaran en la ruta `datasets/usages/` y de forma similar los *datasets de situación* en la ruta `datasets/stations/`. 
 > ***Nota:** si ya tiene los datasets indicados descargados, puede disponerlos en los directorios anteriormente mencionados para omitir la ejecución de esta sección*
 
 ### 3. Creamos los RDD
