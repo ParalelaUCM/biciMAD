@@ -28,9 +28,10 @@ Aquí nos preguntamos cómo se reflejan los resultados obtenidos en la sección 
 ### 6. Análisis de los trabajadores
 Aquí veremos un breve análisis de los movimientos realizados por los empleados del servicio.
 
-### 7. Asesor de ruta BiciMad
+### 7. Ciclos
+Como último análisis, en busca de un tratamiento más complejo de los datos, analizaremos los ciclos realizados por los trabajadores y demás usuarios.
+
+### 8. Asesor de ruta BiciMad
 Esta sección ofrece una breve interacción con el usuario. Consiste en una herramienta que permite introducir una estación de origen y una estación de llegada, así como la hora deseada para realizar el trayecto. Con esos datos se estimará un numero de bicis disponibles en la estación de origen y un número aproximado de puestos libres en la estación destino. 
 > **Nota:** esta herramienta está construida pensando en los horarios nocturnos, es por ello que no hay ningún problema realizando viajes alrededor de las 00:00, tendrá en cuenta el cambio de día para la predicción.
 
-### 8. Ciclos
-Como cierre, en busca de un análisis más complejo de los datos, analizaremos los ciclos realizados por los trabajadores y demás usuarios.
