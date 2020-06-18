@@ -4,7 +4,7 @@
 
 *BiciMAD es un servicio de préstamo de bicicletas ofrecido por la Comunidad de Madrid. A diferencia del Metro de Madrid, los usuarios sí pueden hacer uso de este servicio de madrugada. Esta característica nos hizo cuestionarnos qué uso real tiene BiciMAD en horarios nocturnos.*
 
-###### A continuación se podrá encontrar una pequeña guía sobre las diferentes secciones del Notebook.
+###### A continuación se podrá encontrar una pequeña guía sobre las diferentes secciones del Notebook. Notar que no es en absoluto necesario ejecutar el Notebook, pues se trata de un análisis de los datos obtenidos de uso de BiciMAD, cuyos los resultados quedan registrados de anteriores ejecuciones.
 
 ### 1. Setup
 Se descargarán todos los módulos necesarios de Python para las diferentes secciones.
